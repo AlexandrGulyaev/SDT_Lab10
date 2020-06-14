@@ -1,0 +1,10 @@
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\TcpServer.exe.config
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\TcpServer.exe
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\TcpServer.pdb
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\SomeProject.Library.dll
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\bin\Debug\SomeProject.Library.pdb
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.csprojAssemblyReference.cache
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.csproj.CopyComplete
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.exe
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Tcp.Server\obj\Debug\TcpServer.pdb
