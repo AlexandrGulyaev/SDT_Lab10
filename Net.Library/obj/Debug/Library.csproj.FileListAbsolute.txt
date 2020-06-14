@@ -1,0 +1,6 @@
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+D:\Alexandr\ВУЗ\ТРПО\10 лаба\Клиент-серверное приложение\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
